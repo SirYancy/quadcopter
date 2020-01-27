@@ -1,2 +1,2 @@
 clean:
-	rm -f *.aux *.lof *.log *.lot *.out *.toc
+	rm -f *.aux *.lof *.log *.lot *.out *.toc *.blg *.bbl
